@@ -1,4 +1,5 @@
 1 txt file
+2nd txt file
 <<<<<<< HEAD
 main branch content of 1.txt file
 =======
