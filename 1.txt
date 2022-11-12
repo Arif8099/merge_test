@@ -1,2 +1,6 @@
 1 txt file
+<<<<<<< HEAD
 main branch content of 1.txt file
+=======
+feature branch 1 txt file added content
+>>>>>>> feature
